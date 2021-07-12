@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../PHP"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../logs"
+		}
+	],
+	"settings": {}
+}
