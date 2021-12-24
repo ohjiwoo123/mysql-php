@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect('localhost', 'root','aaos1942','opentutorials');
+$conn = mysqli_connect('localhost', 'root','00000000','opentutorials');
 
 // 1 row 
 echo "<h1>single row</h1>;";
